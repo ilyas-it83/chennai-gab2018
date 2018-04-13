@@ -3,7 +3,7 @@
 var keynoteData = {
   speakers: [
     { name: "Venkat Rangan", imageURL: "assets/images/speakers/venkat.jpg", title: "Microsoft Regional Director" },
-    { name: "TBD", imageURL: "assets/images/speakers/speaker.png", title: "Director - Hexaware" }
+    { name: "Srinivasan Panchapakesan", imageURL: "assets/images/speakers/srini.jpg", title: "SENIOR VICE PRESIDENT & GLOBAL HEAD - ATM BUSINESS & H&I DELIVERY - Hexaware" }
   ]
 };
 
