@@ -4,11 +4,11 @@ var day1AgendaData = {
         { title: "Hexaware's Keynote", speaker: "Karthikeyan", imageURL: "assets/images/speakers/karthik.jpg", desc: "", time: "09.30 AM - 09.55 AM" },
         { title: "Microsoft RD's KeyNote", speaker: "Venkat Rangan", imageURL: "assets/images/speakers/venkat.jpg", desc: "Digital Transformation with Microsoft Azure", time: "10.00 AM - 10.25 AM" },
         { title: "Overview of the Programme & Break", speaker: "", imageURL: "assets/images/coffee.png", desc: "", time: "10.25 AM - 10.40 AM" },
-        { title: "Road ahead for a Microsoft  Developer", speaker: "Venkat Rangan", imageURL: "assets/images/speakers/speaker.png", desc: "", time: "10.40 AM - 11.30 AM" },
+        { title: "Road ahead for a Microsoft  Developer", speaker: "Venkat Rangan", imageURL: "assets/images/speakers/venkat.jpg", desc: "", time: "10.40 AM - 11.30 AM" },
         { title: "Go Mobile with Xamarin and Azure", speaker: "Sarthak Mahapatra ", imageURL: "assets/images/speakers/sarthakmahapatra.jpg", desc: "Developing cross-platform mobile apps using Xamarin and Azure.", time: "11.40 AM - 12.30 AM" },
         { title: "Lunch Break", speaker: "", imageURL: "assets/images/coffee.png", desc: "", time: "12.30 AM - 01.30 AM" },
         { title: "You only code once, the Chat Bot Using LUIS", speaker: "Krishnaanand Sivaraj", imageURL: "assets/images/speakers/krishnanandsivaraj.jpg", desc: "Bot is the new UI for web applications. With azure and bot framework in place you build bots with Machine Learning capabilities easily.", time: "01.30 AM - 02.20 AM" },
-        { title: "Building scalable distributed apps  using Azure Event Grid", speaker: "Sriram ", imageURL: "assets/images/speakers/default-speaker.png", desc: "", time: "02.30 AM - 03.20 AM" },
+        { title: "Building scalable distributed apps  using Azure Event Grid", speaker: "Sriram ", imageURL: "assets/images/speakers/sriram.jpeg", desc: "", time: "02.30 AM - 03.20 AM" },
         { title: "Break", speaker: "", imageURL: "assets/images/coffee.png", desc: "", time: "03.20 AM - 03.30 AM" },
         { title: "Handson on Azure ML for Developers", speaker: "Karthikeyan", imageURL: "assets/images/speakers/karthik.jpg", desc: "Session to learn about machine learning and how to find the algorithms for a particular problem in machine learning. And use  Azure ML to implement the machine learning algorithm.", time: "03.30 AM - 05.30 AM" },
         { title: "Networking/Goodies & Certificate distribution", speaker: "", imageURL: "assets/images/speakers/certificate.png", desc: "", time: "05.30 AM - 06.00 AM" }
