@@ -10,8 +10,8 @@ var keynoteData = {
 var featuredSpeakerData = {
   featuredSpeakers: [
 
-    { name: "Ilyas", imageURL: "assets/images/speakers/ilyas.jpg", title: "Microsoft MVP, Organiser", linkedin: "https://www.linkedin.com/in/ilyasf/", facebook: "#", twitter: "https://twitter.com/ilyas_tweets" },
-    { name: "Karthikeyan VK", imageURL: "assets/images/speakers/karthik.jpg", title: "Microsoft MVP, Organiser", linkedin: "https://www.linkedin.com/in/karthikeyan-vk-27508254/", facebook: "#", twitter: "https://twitter.com/karthik3030" },
+    { name: "Ilyas", imageURL: "assets/images/speakers/ilyas.jpg", title: "Microsoft MVP, Organizer", linkedin: "https://www.linkedin.com/in/ilyasf/", facebook: "#", twitter: "https://twitter.com/ilyas_tweets" },
+    { name: "Karthikeyan VK", imageURL: "assets/images/speakers/karthik.jpg", title: "Microsoft MVP, Organizer", linkedin: "https://www.linkedin.com/in/karthikeyan-vk-27508254/", facebook: "#", twitter: "https://twitter.com/karthik3030" },
     { name: "Saumya Venkataraman", imageURL: "assets/images/speakers/saumya.png", title: "Principal Program Manager, Microsoft", linkedin: "https://www.linkedin.com/in/saumya-venkataraman-5273418/", facebook: "#", twitter: "https://twitter.com/VSTS" },
     { name: "Murugadoss Balasubramanian", imageURL: "assets/images/speakers/murugadoss.jpg", title: "Founder, IoT Geeks | Team Leader, Caterpillar Inc", linkedin: "https://www.linkedin.com/in/murugadossb", facebook: "#", twitter: "#" },
     { name: "Ravikumar Sathyamurthy", imageURL: "assets/images/speakers/shakthiravi.jpg", title: "Microsoft MVP", linkedin: "https://www.linkedin.com/in/ravikumar-sathyamurthy", facebook: "#", twitter: "https://twitter.com/ShakthiRavi" },
